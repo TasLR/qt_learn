@@ -12,6 +12,8 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
     ui->pushButton->setIconSize(QSize(148,53));
     // 验证资源是否存在
+    // since set aliase for xx.jpg,
+    // can not use the old format (":/images/start.jpg") for access the picture
     if (QFile::exists(":/start.jpg")) {
         qDebug() << "Logo资源存在";
     } else {
