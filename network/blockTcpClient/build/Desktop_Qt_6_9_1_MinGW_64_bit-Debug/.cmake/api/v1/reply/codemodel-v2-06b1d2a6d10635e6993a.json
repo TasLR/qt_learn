@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-82e0f0faac2ef3c51462.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "blockTcpClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blockTcpClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blockTcpClient-Debug-edb6fc44aa43ea0c06d6.json",
+					"name" : "blockTcpClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "blockTcpClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blockTcpClient_autogen-Debug-cc29be5fa23e2dbc4ff1.json",
+					"name" : "blockTcpClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "blockTcpClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blockTcpClient_autogen_timestamp_deps-Debug-e65dec072634db61a40f.json",
+					"name" : "blockTcpClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

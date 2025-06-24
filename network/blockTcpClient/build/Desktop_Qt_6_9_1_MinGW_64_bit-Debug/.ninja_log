@@ -1,0 +1,20 @@
+# ninja log v6
+6	413	7724574995068766	blockTcpClient_autogen/timestamp	7a9f154ffc4221ba
+416	2018	7724574995468782	CMakeFiles/blockTcpClient.dir/main.cpp.obj	9871be3848f86328
+6	413	7724574995068766	blockTcpClient_autogen/mocs_compilation.cpp	7a9f154ffc4221ba
+6	413	7724574995068766	F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/blockTcpClient_autogen/timestamp	7a9f154ffc4221ba
+6	413	7724574995068766	F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/blockTcpClient_autogen/mocs_compilation.cpp	7a9f154ffc4221ba
+414	2034	7724574995468782	CMakeFiles/blockTcpClient.dir/blockTcpClient_autogen/mocs_compilation.cpp.obj	c0808c16b91b0316
+492	3559	7724573335345406	CMakeFiles/blockTcpClient.dir/fortunethread.cpp.obj	e5587b8bcd2337b6
+418	3812	7724574995508763	CMakeFiles/blockTcpClient.dir/blockclient.cpp.obj	6ac613c9dcfd2392
+3812	4103	7724575029448876	blockTcpClient.exe	7894d81f7a98130f
+6	95	7724577511562760	blockTcpClient_autogen/timestamp	7a9f154ffc4221ba
+6	95	7724577511562760	blockTcpClient_autogen/mocs_compilation.cpp	7a9f154ffc4221ba
+6	95	7724577511562760	F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/blockTcpClient_autogen/timestamp	7a9f154ffc4221ba
+6	95	7724577511562760	F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/blockTcpClient_autogen/mocs_compilation.cpp	7a9f154ffc4221ba
+6	102	7724578062321433	blockTcpClient_autogen/timestamp	7a9f154ffc4221ba
+6	102	7724578062321433	blockTcpClient_autogen/mocs_compilation.cpp	7a9f154ffc4221ba
+6	102	7724578062321433	F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/blockTcpClient_autogen/timestamp	7a9f154ffc4221ba
+6	102	7724578062321433	F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/blockTcpClient_autogen/mocs_compilation.cpp	7a9f154ffc4221ba
+102	3831	7724578063281496	CMakeFiles/blockTcpClient.dir/blockclient.cpp.obj	6ac613c9dcfd2392
+3831	4074	7724578100537644	blockTcpClient.exe	7894d81f7a98130f

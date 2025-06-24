@@ -1,0 +1,9 @@
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/blockTcpClient.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/blockTcpClient_autogen_timestamp_deps.dir
+F:/PC_Destop_design/projects/qt_learn/network/blockTcpClient/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/blockTcpClient_autogen.dir
